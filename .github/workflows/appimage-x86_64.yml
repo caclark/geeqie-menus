@@ -24,8 +24,7 @@ jobs:
           apt install -y libarchive-dev
           apt install -y libcfitsio-dev
           apt install -y libcfitsio-dev
-          apt install -y libchamplain-0.12-dev
-          apt install -y libchamplain-gtk-0.12-dev
+          apt install -y libshumate-dev
           apt install -y libdjvulibre-dev
           apt install -y libdw-dev
           apt install -y libdwarf-dev
